@@ -6,6 +6,7 @@ no entanto, pude ver que aquele outlier era algo real e que eu não conhecia no 
 Durante a Análise Exploratória de Dados responderei a estas 10 perguntas:
 
 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
+
 2- Qual o Número de Títulos Por Gênero?
 3- Qual a Mediana de Avaliação dos Filmes Por Gênero?
 4- Qual a Mediana de Avaliação dos Filmes Em Relação ao Ano de Estréia?

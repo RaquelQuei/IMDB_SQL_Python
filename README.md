@@ -1,7 +1,7 @@
 # IMDB-SQL-Python
 
 Algumas respostas e situações foram bem inesperadas, por exemplo, me deparei com um outlier e me assustei com tamanha diferença,
-no entanto, pude ver que aquele outlier era algo real e que eu não conhecia no mundo dos filmes, no caso o filme mair longo da História até o momento.
+no entanto, pude ver que aquele outlier era algo real e que eu não conhecia no mundo dos filmes, no caso o filme mais longo da História até o momento.
 
 Durante a Análise Exploratória de Dados responderei a estas 10 perguntas:
 
